@@ -1,0 +1,59 @@
+body{
+	font-family: 'Syne Mono', monospace;
+	color:#5a5a5a;
+}
+
+.navbar-wrapper{
+	position: absolute;
+	font-size: 20px;
+	top: 0;
+	right: 0;
+	left:0;
+	z-index: 20;
+}
+
+.nav-link{
+	color: chartreuse;
+}
+
+.navbar-brand{
+	font-size: 30px;
+	color: black;
+}
+.container{
+	width:100%;
+}
+
+.custom-design{
+	color: wheat;
+}
+
+.adsimage{
+ display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.adsbutton{
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
+	width: 90px;
+}
+
+.demo{
+	height: 500px;
+}
+
+.row{
+	color: chartreuse;
+}
+
+
+.demo{
+	color:black;
+		font-family: 'Syne Mono', monospace;
+	font-size: 20px;
+	background-color: pink;
+	
+}
